@@ -21,3 +21,7 @@ Choose between a variety of common Linux distributions and desktop environments 
 ### Audio-scripts
 
 A script to enable audio on any x86_64 Chromebook, running any form of Linux(UEFI, RW_Legacy, Depthboot, EupneaOS)
+
+## Join our Discord server:
+
+[<img src="https://discordapp.com/api/guilds/994245999822381076/widget.png?style=banner2" alt="Discord banner"></img>](https://discord.gg/jxXb2PwzYz)
