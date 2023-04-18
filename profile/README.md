@@ -28,4 +28,4 @@ https://rvlt.gg/6YxHB2Cz
 
 ## Join our Discord server:
 
-[<img src="https://discordapp.com/api/guilds/994245999822381076/widget.png?style=banner2" alt="Discord banner"></img>](https://discord.gg/jxXb2PwzYz)
+[<img src="https://discordapp.com/api/guilds/994245999822381076/widget.png?style=banner2" alt="Discord banner"></img>](https://discord.gg/XwRHSUbSmu)
