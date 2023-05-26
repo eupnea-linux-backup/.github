@@ -13,7 +13,7 @@ Boot a full Linux system and gain complete control over your device WITHOUT modi
 Choose between a variety of common Linux distributions and desktop environments to create a bootable image for any
 64-bit Chromebook.
 
-### EupneaOS
+### EupneaOS (Discontinued)
 
 Some of you may have noticed EupneaOS has been removed from most pages, this is due to the development of EupneaOS being stopped. 
 The sole focus will be on maintaining and improving Depthboot, for more information please checkout our Discord. 
