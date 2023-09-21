@@ -1,3 +1,4 @@
+<!--
 # The Eupnea Project is no longer maintained
 
 Please use the [depthcharge-boot guide](https://github.com/eupnea-linux-backup/depthcharge-guide/) instead
@@ -6,6 +7,7 @@ Please use the [depthcharge-boot guide](https://github.com/eupnea-linux-backup/d
 
 <details>
 <summary>View the old readme</summary>
+-->
 
 # The Eupnea Project
 
