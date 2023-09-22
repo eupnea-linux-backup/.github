@@ -1,18 +1,4 @@
-<!--
-# The Eupnea Project is no longer maintained
-
-Please use the [depthcharge-boot guide](https://github.com/eupnea-linux-backup/depthcharge-guide/) instead
-
-[Archive.org link](https://web.archive.org/web/20230517165526/https://github.com/eupnea-linux) (snapshot of the project before it was compromised)
-
-<details>
-<summary>View the old readme</summary>
--->
-![The Eupnea Project banner](https://github.com/eupnea-linux-backup/.github/assets/67456566/07109eb9-4564-4b5e-8ffe-9e38df349e4e)
-
-# The Eupnea Project
-
-## https://eupnea-linux.github.io/
+[![The Eupnea Project banner](https://github.com/eupnea-linux-backup/.github/assets/67456566/07109eb9-4564-4b5e-8ffe-9e38df349e4e)](https://eupnea-linux.github.io/)
 
 ### **Your Chromebook, your way**
 
