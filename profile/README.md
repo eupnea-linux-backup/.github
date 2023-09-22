@@ -8,6 +8,7 @@ Please use the [depthcharge-boot guide](https://github.com/eupnea-linux-backup/d
 <details>
 <summary>View the old readme</summary>
 -->
+![The Eupnea Project banner](https://github.com/eupnea-linux-backup/.github/assets/67456566/07109eb9-4564-4b5e-8ffe-9e38df349e4e)
 
 # The Eupnea Project
 
