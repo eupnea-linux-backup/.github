@@ -1,8 +1,8 @@
 [![The Eupnea Project banner](https://github.com/eupnea-linux-backup/.github/assets/67456566/07109eb9-4564-4b5e-8ffe-9e38df349e4e)](https://eupnea-linux.github.io/)
 
-### **Your Chromebook, your way**
+<h3 align="center">Your Chromebook, your way</h3>
 
-Boot a full Linux system and gain complete control over your device WITHOUT modifying the firmware.
+<p align="center">Boot a full Linux system and gain complete control over your device WITHOUT modifying the firmware.</p>
 
 # Products
 
