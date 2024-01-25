@@ -1,5 +1,14 @@
 [![The Eupnea Project banner](https://github.com/eupnea-linux-backup/.github/assets/67456566/07109eb9-4564-4b5e-8ffe-9e38df349e4e)](https://eupnea-linux.github.io/)
 
+# THE EUPNEA PROJECT HAS BEEN DISCONTINUED
+
+Please use one of the following projects instead:
+* MrChromebox's UEFI/RW_L (turn chromebook into almost a normal laptop): https://mrchromebox.tech/#fwscript
+* FyraLab's submarine (does not require firmware modification): https://github.com/FyraLabs/submarine
+
+<details>
+<summary>View the old readme</summary>
+
 <h3 align="center">Your Chromebook, your way</h3>
 
 <p align="center">Boot a full Linux system and gain complete control over your device WITHOUT modifying the firmware.</p>
